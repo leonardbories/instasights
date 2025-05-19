@@ -13,7 +13,7 @@ This portfolio project demonstrates a complete ETL (Extract, Transform, Load) pi
 
 ## 🧰 Tech Stack
 
-- Python (Pandas, NLTK, SentenceTransformers, BERTopic, UMAP, HDBSCAN)
+- Python (Pandas, NLTK, SentenceTransformers)
 - SQL Server (via pyodbc)
 - Apify API for Instagram scraping
 - Power BI or Tableau for visualization
